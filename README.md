@@ -1,3 +1,3 @@
 # belajar-kolaborasi
-***sangat menyenangkan**
+* **sangat menyenangkan**
 * mudah
